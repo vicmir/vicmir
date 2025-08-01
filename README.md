@@ -3,6 +3,8 @@
 <!--
 **vicmir/vicmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img width="620" height="443" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/399792ce-a0d4-4658-af02-52dc188da170" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
