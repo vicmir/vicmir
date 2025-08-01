@@ -11,9 +11,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on the `WeatherForecastApp` and `ArtStyleRecognitionApp` projects]
+- 🔭 I’m currently working on the `WeatherForecastApp` and `ArtStyleRecognitionApp` projects
 
 - 🌱 I’m currently learning frontend frameworks and languages, interested in data science topics
+
+- ⚡ 
 
 <!--
 - 👯 I’m looking to collaborate on ...
