@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://img.icons8.com/color/62/000000/python.png" alt="Python" title="Python"/>
-  <img src="https://img.icons8.com/color/62/000000/html-5--v1.png" alt="HTML" title="HTML"/>
-  <img src="https://img.icons8.com/color/62/000000/css3.png" alt="CSS" title="CSS"/>
-  <img src="https://img.icons8.com/color/62/000000/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/52/000000/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/52/000000/html-5--v1.png" alt="HTML" title="HTML"/>
+  <img src="https://img.icons8.com/color/52/000000/css3.png" alt="CSS" title="CSS"/>
+  <img src="https://img.icons8.com/color/52/000000/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
 
   <!-- Backend 
   <img src="https://img.icons8.com/fluency/82/fastapi.png" alt="FastAPI" title="FastAPI"/>
@@ -45,14 +45,14 @@ Here are some ideas to get you started:
   <!-- Data Science -->
   <!--
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/82/external-pandas-a-software-library-written-for-the-python-programming-language-logo-soft-fill-juicy-fish.png" alt="Pandas" title="Pandas"/> -->
-  <img src="https://img.icons8.com/color/62/000000/numpy.png" alt="NumPy" title="NumPy"/>
+  <img src="https://img.icons8.com/color/52/000000/numpy.png" alt="NumPy" title="NumPy"/>
   <!--
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/82/external-scikit-learn-a-python-module-integrating-a-wide-range-of-state-of-the-art-machine-learning-logo-color-tal-revivo.png" alt="scikit-learn" title="scikit-learn"/> -->
-  <img src="https://img.icons8.com/fluency/62/jupyter.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
+  <img src="https://img.icons8.com/fluency/52/jupyter.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
 
   <!-- IDEs -->
-  <img src="https://img.icons8.com/color/62/pycharm.png" alt="PyCharm" title="PyCharm"/>
-  <img src="https://img.icons8.com/color/62/visual-studio-code-2019.png" alt="VS Code" title="Visual Studio Code"/>
+  <img src="https://img.icons8.com/color/52/pycharm.png" alt="PyCharm" title="PyCharm"/>
+  <img src="https://img.icons8.com/color/52/visual-studio-code-2019.png" alt="VS Code" title="Visual Studio Code"/>
 </p>
 
 ## 🌐 Socials
