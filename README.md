@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🔭 Currently working on the `WeatherForecastApp` and `ArtStyleRecognitionApp` projects.
 
-- 🌱 Currently learning frontend frameworks and languages, interested in data science topics.
+- 🌱 Currently learning **frontend frameworks** and **languages**, interested in **data science** topics.
 
 ![GitHub Snake](https://github.com/vicmir/vicmir/blob/output/github-contribution-grid-snake.svg)
 
