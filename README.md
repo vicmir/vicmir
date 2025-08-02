@@ -5,9 +5,9 @@
 
 - 🔭 Currently working on the `WeatherForecastApp` and `ArtStyleRecognitionApp` projects.
 
-- 🌱 Currently learning **frontend frameworks** and **languages**, interested in **data science** topics.
+- 🌱 Currently learning **frontend frameworks** and **languages**, interested in **data science** and **machine learning** topics.
 
-- ⚡ :D
+- ⚡ **:D**
 
 <!--
 ![GitHub Snake](https://github.com/vicmir/vicmir/blob/output/github-contribution-grid-snake.svg)
