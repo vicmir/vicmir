@@ -11,9 +11,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on the `WeatherForecastApp` and `ArtStyleRecognitionApp` projects
+- 🔭 Currently working on the `WeatherForecastApp` and `ArtStyleRecognitionApp` projects.
 
-- 🌱 I’m currently learning frontend frameworks and languages, interested in data science topics
+- 🌱 Currently learning frontend frameworks and languages, interested in data science topics.
 
 - ⚡ 
 
@@ -58,7 +58,9 @@ Here are some ideas to get you started:
 ## 🌐 Socials
 
 <p align="center"> 
-  <a href="https://www.kaggle.com/victmir" title="Kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a> 
+  <a href="https://www.kaggle.com/victmir" title="Kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <!--
   <a href="https://www.linkedin.com/in/viktoriia-mirochnyk-82693a284/" title="LinkedIn"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" alt="LinkedIn"></a> 
-  <a href="mailto:viktoriiamirochnyk@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
+  <a href="mailto:viktoriiamirochnyk@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  -->
 </p>
