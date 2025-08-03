@@ -5,11 +5,11 @@
 
 <p>
   
-  - 📌 Currently working on the `WeatherForecastApp` and `ArtStyleRecognitionApp` projects.
+  - 👩‍💻 Currently working on the `WeatherForecastApp` and `ArtStyleRecognitionApp` projects.
   
-  - 📌 Learning **frontend frameworks** and **languages**, interested in **data science** and **machine learning** topics.
+  - 🌱 Learning **frontend frameworks** and **languages**, interested in **data science** and **machine learning** topics.
   
-  - 📌 **:D**
+  - 🍄 **:D**
     
 </p>
 
@@ -17,7 +17,7 @@
 ![GitHub Snake](https://github.com/vicmir/vicmir/blob/output/github-contribution-grid-snake.svg)
 -->
 
-## 📌 Some tools I have used and learned ...
+## 📚 Some tools I have used and learned ...
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-## 📌 How to reach me ...
+## 💫 How to reach me ...
 
 <p align="center"> 
   <a href="https://www.kaggle.com/victmir" title="Kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
