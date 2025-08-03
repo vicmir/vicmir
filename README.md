@@ -3,11 +3,15 @@
   <img width="371" height="249" alt="vicmir badge readme" src="https://github.com/user-attachments/assets/f6840008-1ce7-4bef-89ab-1c895a963289"/>
 </p>
 
-- 📌 Currently working on the `WeatherForecastApp` and `ArtStyleRecognitionApp` projects.
-
-- 📌 Learning **frontend frameworks** and **languages**, interested in **data science** and **machine learning** topics.
-
-- 📌 **:D**
+<p>
+  
+  - 📌 Currently working on the `WeatherForecastApp` and `ArtStyleRecognitionApp` projects.
+  
+  - 📌 Learning **frontend frameworks** and **languages**, interested in **data science** and **machine learning** topics.
+  
+  - 📌 **:D**
+    
+</p>
 
 <!--
 ![GitHub Snake](https://github.com/vicmir/vicmir/blob/output/github-contribution-grid-snake.svg)
