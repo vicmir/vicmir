@@ -1,56 +1,47 @@
 
 <p align="center">
-  <img width="371" height="249" alt="hello, im vicmir" src="https://github.com/user-attachments/assets/9a5ba6d7-e18c-4560-a130-0511693d14d1" />
+  <img width="371" height="249" alt="vicmir badge readme" src="https://github.com/user-attachments/assets/f6840008-1ce7-4bef-89ab-1c895a963289" />
 </p>
 
-- 🔭 Currently working on the `WeatherForecastApp` and `ArtStyleRecognitionApp` projects.
+- ✨ Currently working on the `WeatherForecastApp` and `ArtStyleRecognitionApp` projects.
 
-- 🌱 Currently learning **frontend frameworks** and **languages**, interested in **data science** and **machine learning** topics.
+- ✨ Learning **frontend frameworks** and **languages**, interested in **data science** and **machine learning** topics.
 
-- ⚡ **:D**
+- ✨ **:D**
 
 <!--
 ![GitHub Snake](https://github.com/vicmir/vicmir/blob/output/github-contribution-grid-snake.svg)
 -->
 
-## 👾 Some tools I have used and learned
+## ✨ Some tools I have used and learned ...
 
 <p align="center">
-  <!-- <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/> -->
-  <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/3a7dcb2c-72a4-423b-bbba-62c46ff1a078" />
-  <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/74b30349-27b1-47b3-b2d5-960fa863bb55" />
-  <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/53ff912f-0652-40f6-9d8e-baa71f3f45b0" />
-  <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/8d8fe301-e767-4747-adc6-386c4014cdd1" />
-
-  <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/efc0dab1-768e-4e34-a4ab-4874f5490e06" />
-  <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/d53a8393-2714-4da8-b11f-0549edaa7752" />
-
-  <img width="38" height="38" alt="FastAPI (2)" src="https://github.com/user-attachments/assets/c620a52a-ffdd-4c2b-96bb-77f3ff40fa93" />
-  <img width="38" height="38" alt="uvicorn" src="https://github.com/user-attachments/assets/53c97363-72db-43d6-b805-c5b036028213" />
-
-  <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/1a97471a-adab-48c8-8377-05cd3365a57e" />
-  <img width="38" height="38" alt="Pandas" src="https://github.com/user-attachments/assets/008f6567-fa69-4eb0-bb54-bd1e93558939" />
-  <img width="38" height="38" alt="scikit-learn" src="https://github.com/user-attachments/assets/4e2bc6ad-0fba-4765-b71b-b2b818342fb9" />
-  <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/8c331beb-1ca7-481e-9afa-44b2cfedf46f" />
-
-  <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/55bbdf05-51a7-45a8-b02f-7f76227b73ff" />
-  <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/e0c8f023-63ba-4ea3-8702-0c224dfd94ec" />
-
-  <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/3d1cf5a5-861e-4d8c-bbc9-d8c03050c8b2" />
-  <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/61e3edce-af48-472e-9d0e-e431231885ea" />
-
-  <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/2125efaa-777c-400b-aa4d-bc789aed8e91" />
-  <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/e0d3d90e-d0d3-4869-8640-a75d5fca98a1" />
-
-  <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/7620760b-3269-4727-b8f9-2dce09bcf311" />
-  <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/c52d002e-d941-4ac0-9f75-febb6bdc3147" />
-  <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/cdfcbe50-3d97-43ce-9eff-5aa1b9dbc263" />
-  <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/6098f19e-afb4-42cd-a5df-c0c59f3f4abe" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Uvicorn-000000?style=for-the-badge&logo=uvicorn&logoColor=white" alt="Uvicorn" />
   
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 
-## 📫 How to reach me
+## ✨ How to reach me ...
 
 <p align="center"> 
   <a href="https://www.kaggle.com/victmir" title="Kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
