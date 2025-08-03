@@ -1,9 +1,11 @@
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=20acf7&height=111&section=header"/>
-  
-  <p align="center">
-    <img width="371" height="249" alt="vicmir badge readme" src="https://github.com/user-attachments/assets/f6840008-1ce7-4bef-89ab-1c895a963289"/>
-  </p>
+</p>
+-->
+
+<p align="center">
+  <img width="371" height="249" alt="vicmir badge readme" src="https://github.com/user-attachments/assets/f6840008-1ce7-4bef-89ab-1c895a963289"/>
 </p>
 
 - ✨ Currently working on the `WeatherForecastApp` and `ArtStyleRecognitionApp` projects.
@@ -52,6 +54,8 @@
   <a href="mailto:viktoriiamirochnyk@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=20acf7&height=111&section=footer"/>
 </p>
+-->
