@@ -8,17 +8,17 @@
   <img width="371" height="249" alt="vicmir badge readme" src="https://github.com/user-attachments/assets/f6840008-1ce7-4bef-89ab-1c895a963289"/>
 </p>
 
-- ✨ Currently working on the `WeatherForecastApp` and `ArtStyleRecognitionApp` projects.
+- 📎 Currently working on the `WeatherForecastApp` and `ArtStyleRecognitionApp` projects.
 
-- ✨ Learning **frontend frameworks** and **languages**, interested in **data science** and **machine learning** topics.
+- 📎 Learning **frontend frameworks** and **languages**, interested in **data science** and **machine learning** topics.
 
-- ✨ **:D**
+- 📎 **:D**
 
 <!--
 ![GitHub Snake](https://github.com/vicmir/vicmir/blob/output/github-contribution-grid-snake.svg)
 -->
 
-## ✨ Some tools I have used and learned ...
+## 📌 Some tools I have used and learned ...
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -46,7 +46,7 @@
 </p>
 
 
-## ✨ How to reach me ...
+## 📌 How to reach me ...
 
 <p align="center"> 
   <a href="https://www.kaggle.com/victmir" title="Kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
