@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=header"/>
 </p>
-
 <p align="center">
   <img width="371" height="249" alt="vicmir badge readme" src="https://github.com/user-attachments/assets/f6840008-1ce7-4bef-89ab-1c895a963289"/>
 </p>
@@ -20,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,html,css,js,bootstrap,flask,fastapi,postgres,mysql,sklearn,pkl,tensorflow,anaconda,azure,git,github,gitlab,vscode,visualstudio,pycharm,webstorm,replit,bash" />
+    <img src="https://skillicons.dev/icons?i=py,c,html,css,js,bootstrap,flask,fastapi,postgres,mysql,sklearn,pkl,tensorflow,anaconda,azure,git,github,gitlab,vscode,visualstudio,pycharm,webstorm,replit,bash"/>
   </a>
 </p>
 
